@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mr-meetpatel
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-meetpatel)]
 - 👀 I’m interested in Backend Developing
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
